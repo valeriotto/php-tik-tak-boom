@@ -1,5 +1,4 @@
-window.onload = function()
-{
+window.onload = function () {
     tikTakBoom.init(
         tasks,
         document.getElementById('timerField'),
